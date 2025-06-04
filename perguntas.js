@@ -21,4 +21,5 @@ criaCartao(
     'Astronomia',
     ' O que aconteceria se a Lua desaparecesse?
     'A gravidade da Terra e a da Lua se influenciam mutuamente. O sumiço repentino da Lua tornaria o movimento de rotação da Terra caótico como o de um pião em baixa velocidade. Seria catastrófico para a vida no planeta, com alterações drásticas do clima. Períodos quentíssimos se alternariam, de forma aleatória, com fases de frio glacial. Os animais com mais chances de sobrevivência seriam os aquáticos, já que a temperatura da água varia mais lentamente. Embora um afastamento súbito da Lua seja improvável, sabe-se que ela está se distanciando da Terra à razão de alguns centímetros por ano. Por enquanto, não há motivo para pânico: bilhões de anos nos separam de um afastamento da Lua capaz de provocar alterações em nosso planeta '
+    
 )
